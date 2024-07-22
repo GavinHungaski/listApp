@@ -3,6 +3,7 @@ body {
     margin: 0;
     background-color: bisque;
 }
+
 input[type=checkbox]
 {
   -ms-transform: scale(1.5); /* IE */
